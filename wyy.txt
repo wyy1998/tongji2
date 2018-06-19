@@ -1,8 +1,17 @@
-def wwyyyy():
-    url=['http://www.17k.com/book/2801193.html','http://www.17k.com/book/2767246.html/']
-    file='C:/Users/dell/Desktop/html'
-    with open('C:/Users/dell/Desktop/html','a',encoding='utf-8')as f:
-        for i in range(2):
-            header = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'}
-            response = requests.post('http://www.17k.com/book/2801193.html',headers = header)
-            f.write(response.text)
+import requests
+from lxml import etree
+file='C:/Users/dell/Desktop/aa.txt'
+re=requests.get('http://www.17k.com/list/2822387.html')
+tree=etree.HTML(re.text)
+a= tree.xpath('//div/dl[@class="Volume"]/dd/a')
+for i in a:
+    b=i.xpath("./@href")[0]
+    c=('http://www.17k.com'+b)
+    content=requests.get(c).text
+    import re
+    regex=re.compile('&#12288;&#12288;(.*?)<br /><br />',re.S)   
+    result=re.findall(regex,content)
+    print(result)
+    d = str(result)
+    with open(file,'a',encoding='utf-8') as f:
+        f.write(d)
