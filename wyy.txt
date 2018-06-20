@@ -1,17 +1,12 @@
-import requests
+﻿import requests
 from lxml import etree
-file='C:/Users/dell/Desktop/aa.txt'
-re=requests.get('http://www.17k.com/list/2822387.html')
-tree=etree.HTML(re.text)
-a= tree.xpath('//div/dl[@class="Volume"]/dd/a')
-for i in a:
-    b=i.xpath("./@href")[0]
-    c=('http://www.17k.com'+b)
-    content=requests.get(c).text
-    import re
-    regex=re.compile('&#12288;&#12288;(.*?)<br /><br />',re.S)   
-    result=re.findall(regex,content)
-    print(result)
-    d = str(result)
-    with open(file,'a',encoding='utf-8') as f:
-        f.write(d)
+s = 0
+q = requests.get('http://op.hanhande.com/shtml/meitu.shtml')
+tree = etree.HTML(q.text)
+book = tree.xpath('//*[@id="main"]/div[1]/div[2]/ul/li')
+for i in book:
+    hrl = i.xpath('./a/img/@src')[0]
+    s=s+1
+    q = requests.get(hrl).content
+    with open('C:/Users/dell/Desktop/图片.jpg'+str(s)+'.jpg','wb')as f:
+        f.write(q)
