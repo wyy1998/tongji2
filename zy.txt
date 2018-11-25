@@ -1,0 +1,56 @@
+table >
+
+<table border="1" bordercolor="#F5F5F5"  cellspacing="0" cellpadding="0">
+    <tr style="background-color:#E0FFFF">
+        <td>星期日</td>
+        <td>星期一</td>
+        <td>星期二</td>
+        <td>星期三</td>
+        <td>星期四</td>
+        <td>星期五</td>
+        <td>星期六</td>
+    <tr>
+        <td style="color:#CD6839"><p>&nbsp&nbsp&nbsp28</p></td>
+        <td style="color:#BFEFFF">&nbsp&nbsp&nbsp29</td>
+        <td style="color:#BFEFFF">&nbsp&nbsp&nbsp30</td>
+        <td style="color:#BFEFFF">&nbsp&nbsp&nbsp31</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp1</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp2</td>
+        <td style="color:#CD0000">&nbsp&nbsp&nbsp&nbsp&nbsp3</td>
+    </tr>
+    <tr>
+        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp&nbsp&nbsp4</p></td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp5</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp6</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp7</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp8</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp9</td>
+        <td style="color:#CD0000">&nbsp&nbsp&nbsp10</td>
+    </tr>
+    <tr>
+        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp11</p></td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp12</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp13</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp14</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp15</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp16</td>
+        <td style="color:#CD0000">&nbsp&nbsp&nbsp17</td>
+    </tr>
+    <tr>
+        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp18</p></td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp19</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp20</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp21</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp22</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp23</td>
+        <td style="color:#CD0000">&nbsp&nbsp&nbsp24</td>
+    </tr>
+    <tr>
+        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp25</p></td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp26</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp27</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp28</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp29</td>
+        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp30</td>
+        <td style="color:#CD0000">&nbsp&nbsp&nbsp&nbsp&nbsp1</td>
+    </tr>
