@@ -1,56 +1,50 @@
-table >
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+    <title>王月瑶的知乎</title>
+   <style type="text/css">
+   a:link,a:visited{
+     text-decoration: none;
+   }
+   h1{color:#87CEFA}
+   h2{color:#87CEFA}
+   body{text-align:center ;vertical-align: middle}
+   </style>
+</head>
+<body style="background-size: cver" background="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543162015951&di=407a4f261ddbf0392d7f1c4079c3094f&imgtype=0&src=http%3A%2F%2Fpic.90sjimg.com%2Fback_pic%2Fu%2F00%2F05%2F85%2F81%2F56024a6702ba1.jpg">
+ <div style="background-color:#FFFFFF;width:350px;height:400px;margin:50px 0 0 550px"> 
+    <h1>  <span style="font-size:62px">知乎</span></h1>
+    <h2>注册知乎，发现更大的世界</h2>
+<form name="知乎" method="post" action="https://www.taobao.com/">
+     <select>
+             <option>中国+86</option>
+            <option>美国+1</option>
+            <option>日本+81</option>
+            <option>澳大利亚+61</option>
+        </select>
+        
+    <input type="text" placeholder="手机号">
+   
+    <p> <input type="text" placeholder="输入6位短信验证码">  <input type="button" value="获取短信验证码"></p>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <input type="button" value="接受语音验证码">
+<p><input style="background-color:#87CEFA;height:40px" type="submit" value="&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp注册&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"></p>
+<p><html><span style="color:#CDC9C9;font-size:12px">注册即代表同意</span></html>
+<a href="https://www.zhihu.com/terms" style="color:#CDC9C9" target="_self"><span style="font-size:12px">《知乎协议》</span></a>
+<a href="https://www.zhihu.com/term/privacy" style="color:#CDC9C9" target="_self"><span style="font-size:12px">《隐私保护指引》</span></a>
+<a href="https://www.zhihu.com/org/signup" target="_self"> <span style="font-size:12px">注册机构号</span></a>
+</p> 
+<div  style="background-color:#F2F2F2;width:350px;height:50px">
+   <html>已有账号?</html>
+   <a href="https://www.zhihu.com">登陆</a>
+</div></form></div>
+<div style="background-color:#607B8B;width:350px;margin:50px 0 0 550px">
+    <form>
+            <a href="https://www.zhihu.com/term/privacy"style="color:#FFFFFF" target="_self"><span style="font-size:20px">下载&nbsp&nbsp&nbsp知乎APP</span><a>
+    </form>
+</div>
+</body>
+</html> 
 
-<table border="1" bordercolor="#F5F5F5"  cellspacing="0" cellpadding="0">
-    <tr style="background-color:#E0FFFF">
-        <td>星期日</td>
-        <td>星期一</td>
-        <td>星期二</td>
-        <td>星期三</td>
-        <td>星期四</td>
-        <td>星期五</td>
-        <td>星期六</td>
-    <tr>
-        <td style="color:#CD6839"><p>&nbsp&nbsp&nbsp28</p></td>
-        <td style="color:#BFEFFF">&nbsp&nbsp&nbsp29</td>
-        <td style="color:#BFEFFF">&nbsp&nbsp&nbsp30</td>
-        <td style="color:#BFEFFF">&nbsp&nbsp&nbsp31</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp1</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp2</td>
-        <td style="color:#CD0000">&nbsp&nbsp&nbsp&nbsp&nbsp3</td>
-    </tr>
-    <tr>
-        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp&nbsp&nbsp4</p></td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp5</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp6</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp7</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp8</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp&nbsp&nbsp9</td>
-        <td style="color:#CD0000">&nbsp&nbsp&nbsp10</td>
-    </tr>
-    <tr>
-        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp11</p></td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp12</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp13</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp14</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp15</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp16</td>
-        <td style="color:#CD0000">&nbsp&nbsp&nbsp17</td>
-    </tr>
-    <tr>
-        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp18</p></td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp19</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp20</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp21</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp22</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp23</td>
-        <td style="color:#CD0000">&nbsp&nbsp&nbsp24</td>
-    </tr>
-    <tr>
-        <td style="color:#CD0000"><p>&nbsp&nbsp&nbsp25</p></td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp26</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp27</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp28</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp29</td>
-        <td style="color:rgb(96, 0, 205)">&nbsp&nbsp&nbsp30</td>
-        <td style="color:#CD0000">&nbsp&nbsp&nbsp&nbsp&nbsp1</td>
-    </tr>
